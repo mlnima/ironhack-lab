@@ -66,13 +66,17 @@ print(np.sort(x))
 #### 15. Create random vector of size 10 and replace the maximum value by 0 (★★☆)
 `hint: argmax`
 x = np.random.random(11)
+
 x = np.sort(x)
+
 x[-1] = 10
+
 print(x)
 
 #### 16. Subtract the mean of each row of a matrix (★★☆)
 `hint: mean(axis=,keepdims=)`
 a = np.random.rand(3, 4)
+
 b = a - a.mean(axis=1, keepdims=True)
 
 #### 17. How to get the n largest values of an array (★★★)
