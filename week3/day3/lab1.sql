@@ -29,3 +29,13 @@ where address_id in (
 	)
 );
 
+
+set @canadaId := (select country_id from sakila.country where country = 'Canada');
+select first_name, last_name, email from customer 
+where address_id in (
+	select address_id from address 
+	where city_id in (
+		select city_id from city 
+		where country_id = @canadaId
+	)
+);
