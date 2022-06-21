@@ -1,0 +1,11 @@
+{
+  "schoolName": "IronHack",
+  "bootcampCategory":"DA",
+  "students": ["st1","st2","st3","st4","st5","st6","st7","st8"],
+  "currentWeek": 4,
+  "totalWeeks": 9,
+  "start_time": 9,
+  "end_time": 18,
+  "perDayHours": 9,
+  "day": 24
+}
