@@ -1,101 +1,101 @@
-rank,singer,song_name
-1,Jimmy Cooks,Drake Featuring 21 Savage
-2,As It Was,Harry Styles
-3,First Class,Jack Harlow
-4,Wait For U,Future Featuring Drake & Tems
-5,About Damn Time,Lizzo
-6,Sticky,Drake
-7,Falling Back,Drake
-8,Glimpse Of Us,Joji
-9,Running Up That Hill (A Deal With God),Kate Bush
-10,Heat Waves,Glass Animals
-11,Me Porto Bonito,Bad Bunny & Chencho Corleone
-12,Big Energy,Latto
-13,Texts Go Green,Drake
-14,Massive,Drake
-15,Break My Soul,Beyonce
-16,Titi Me Pregunto,Bad Bunny
-17,Wasted On You,Morgan Wallen
-18,The Kind Of Love We Make,Luke Combs
-19,Stay,The Kid LAROI & Justin Bieber
-20,Calling My Name,Drake
-21,A Keeper,Drake
-22,I Like You (A Happier Song),Post Malone Featuring Doja Cat
-23,Currents,Drake
-24,Late Night Talking,Harry Styles
-25,Boyfriend,Dove Cameron
-26,Ghost,Justin Bieber
-27,Numb Little Bug,Em Beihold
-28,Flight's Booked,Drake
-29,Bad Habits,Ed Sheeran
-30,Enemy,Imagine Dragons X JID
-31,Get Into It (Yuh),Doja Cat
-32,Moscow Mule,Bad Bunny
-33,Sunroof,Nicky Youre & dazy
-34,Woman,Doja Cat
-35,Cold Heart (PNAU Remix),Elton John & Dua Lipa
-36,Bam Bam,Camila Cabello Featuring Ed Sheeran
-37,Thats What I Want,Lil Nas X
-38,Super Gremlin,Kodak Black
-39,Shivers,Ed Sheeran
-40,Provenza,Karol G
-41,You Proof,Morgan Wallen
-42,Overdrive,Drake
-43,Take My Name,Parmalee
-44,Sweetest Pie,Megan Thee Stallion & Dua Lipa
-45,Efecto,Bad Bunny
-46,Like I Love Country Music,Kane Brown
-47,Liability,Drake
-48,AA,Walker Hayes
-49,Thousand Miles,The Kid LAROI
-50,Something In The Orange,Zach Bryan
-51,Party,Bad Bunny & Rauw Alejandro
-52,U-Digg,"Lil Baby, 42 Dugg & Veeze"
-53,Despues de La Playa,Bad Bunny
-54,Trouble With A Heartbreak,Jason Aldean
-55,Cooped Up,Post Malone Featuring Roddy Ricch
-56,2step,Ed Sheeran Featuring Lil Baby
-57,Ojitos Lindos,Bad Bunny & Bomba Estereo
-58,Puffin On Zootiez,Future
-59,Damn Strait,Scotty McCreery
-60,Fall In Love,Bailey Zimmerman
-61,Hold My Hand,Lady Gaga
-62,Down Hill,Drake
-63,In A Minute,Lil Baby
-64,MAMIII,Becky G X Karol G
-65,Sleazy Flow,SleazyWorld Go Featuring Lil Baby
-66,Tie That Binds,Drake
-67,Vegas,Doja Cat
-68,Yet To Come,BTS
-69,When You're Gone,Shawn Mendes
-70,What Happened To Virgil,Lil Durk Featuring Gunna
-71,Silent Hill,Kendrick Lamar & Kodak Black
-72,Rock And A Hard Place,Bailey Zimmerman
-73,Cash In Cash Out,"Pharrell Williams Featuring 21 Savage & Tyler, The Creator"
-74,To The Moon!,JNR CHOI & Sam Tompkins
-75,Tarot,Bad Bunny & Jhay Cortez
-76,She Had Me At Heads Carolina,Cole Swindell
-77,She Likes It,Russell Dickerson & Jake Scott
-78,I Ain't Worried,OneRepublic
-79,Flower Shops,ERNEST Featuring Morgan Wallen
-80,Ghost Story,Carrie Underwood
-81,Te Felicito,Shakira & Rauw Alejandro
-82,Hotel Lobby (Unc And Phew),Quavo & Takeoff
-83,Music For A Sushi Restaurant,Harry Styles
-84,Un Ratito,Bad Bunny
-85,Last Night Lonely,Jon Pardi
-86,Thought You Should Know,Morgan Wallen
-87,So Good,Halsey
-88,5 Foot 9,Tyler Hubbard
-89,Wild As Her,Corey Kent
-90,Right On,Lil Baby
-91,Circles Around This Town,Maren Morris
-92,Tomorrow Me,Luke Combs
-93,7500 OBO,Tim McGraw
-94,Die Young,Sleepy Hallow Featuring 347aidan
-95,F.N.F. (Let's Go),Hitkidd & Glorilla
-96,N95,Kendrick Lamar
-97,Love Me More,Sam Smith
-98,New Truck,Dylan Scott
-99,She's All I Wanna Be,Tate McRae
-100,Desesperados,Rauw Alejandro & Chencho Corleone
+rank,singer_name,song_name
+1,Drake Featuring 21 Savage,Jimmy Cooks
+2,Harry Styles,As It Was
+3,Jack Harlow,First Class
+4,Future Featuring Drake & Tems,Wait For U
+5,Lizzo,About Damn Time
+6,Drake,Sticky
+7,Drake,Falling Back
+8,Joji,Glimpse Of Us
+9,Kate Bush,Running Up That Hill (A Deal With God)
+10,Glass Animals,Heat Waves
+11,Bad Bunny & Chencho Corleone,Me Porto Bonito
+12,Latto,Big Energy
+13,Drake,Texts Go Green
+14,Drake,Massive
+15,Beyonce,Break My Soul
+16,Bad Bunny,Titi Me Pregunto
+17,Morgan Wallen,Wasted On You
+18,Luke Combs,The Kind Of Love We Make
+19,The Kid LAROI & Justin Bieber,Stay
+20,Drake,Calling My Name
+21,Drake,A Keeper
+22,Post Malone Featuring Doja Cat,I Like You (A Happier Song)
+23,Drake,Currents
+24,Harry Styles,Late Night Talking
+25,Dove Cameron,Boyfriend
+26,Justin Bieber,Ghost
+27,Em Beihold,Numb Little Bug
+28,Drake,Flight's Booked
+29,Ed Sheeran,Bad Habits
+30,Imagine Dragons X JID,Enemy
+31,Doja Cat,Get Into It (Yuh)
+32,Bad Bunny,Moscow Mule
+33,Nicky Youre & dazy,Sunroof
+34,Doja Cat,Woman
+35,Elton John & Dua Lipa,Cold Heart (PNAU Remix)
+36,Camila Cabello Featuring Ed Sheeran,Bam Bam
+37,Lil Nas X,Thats What I Want
+38,Kodak Black,Super Gremlin
+39,Ed Sheeran,Shivers
+40,Karol G,Provenza
+41,Morgan Wallen,You Proof
+42,Drake,Overdrive
+43,Parmalee,Take My Name
+44,Megan Thee Stallion & Dua Lipa,Sweetest Pie
+45,Bad Bunny,Efecto
+46,Kane Brown,Like I Love Country Music
+47,Drake,Liability
+48,Walker Hayes,AA
+49,The Kid LAROI,Thousand Miles
+50,Zach Bryan,Something In The Orange
+51,Bad Bunny & Rauw Alejandro,Party
+52,"Lil Baby, 42 Dugg & Veeze",U-Digg
+53,Bad Bunny,Despues de La Playa
+54,Jason Aldean,Trouble With A Heartbreak
+55,Post Malone Featuring Roddy Ricch,Cooped Up
+56,Ed Sheeran Featuring Lil Baby,2step
+57,Bad Bunny & Bomba Estereo,Ojitos Lindos
+58,Future,Puffin On Zootiez
+59,Scotty McCreery,Damn Strait
+60,Bailey Zimmerman,Fall In Love
+61,Lady Gaga,Hold My Hand
+62,Drake,Down Hill
+63,Lil Baby,In A Minute
+64,Becky G X Karol G,MAMIII
+65,SleazyWorld Go Featuring Lil Baby,Sleazy Flow
+66,Drake,Tie That Binds
+67,Doja Cat,Vegas
+68,BTS,Yet To Come
+69,Shawn Mendes,When You're Gone
+70,Lil Durk Featuring Gunna,What Happened To Virgil
+71,Kendrick Lamar & Kodak Black,Silent Hill
+72,Bailey Zimmerman,Rock And A Hard Place
+73,"Pharrell Williams Featuring 21 Savage & Tyler, The Creator",Cash In Cash Out
+74,JNR CHOI & Sam Tompkins,To The Moon!
+75,Bad Bunny & Jhay Cortez,Tarot
+76,Cole Swindell,She Had Me At Heads Carolina
+77,Russell Dickerson & Jake Scott,She Likes It
+78,OneRepublic,I Ain't Worried
+79,ERNEST Featuring Morgan Wallen,Flower Shops
+80,Carrie Underwood,Ghost Story
+81,Shakira & Rauw Alejandro,Te Felicito
+82,Quavo & Takeoff,Hotel Lobby (Unc And Phew)
+83,Harry Styles,Music For A Sushi Restaurant
+84,Bad Bunny,Un Ratito
+85,Jon Pardi,Last Night Lonely
+86,Morgan Wallen,Thought You Should Know
+87,Halsey,So Good
+88,Tyler Hubbard,5 Foot 9
+89,Corey Kent,Wild As Her
+90,Lil Baby,Right On
+91,Maren Morris,Circles Around This Town
+92,Luke Combs,Tomorrow Me
+93,Tim McGraw,7500 OBO
+94,Sleepy Hallow Featuring 347aidan,Die Young
+95,Hitkidd & Glorilla,F.N.F. (Let's Go)
+96,Kendrick Lamar,N95
+97,Sam Smith,Love Me More
+98,Dylan Scott,New Truck
+99,Tate McRae,She's All I Wanna Be
+100,Rauw Alejandro & Chencho Corleone,Desesperados
