@@ -30,6 +30,7 @@ const StyledIntro = styled.div`
           &:hover {
             transition: 1s;
             transform: scale(1.2);
+            cursor: pointer;
           }
         }
       }
