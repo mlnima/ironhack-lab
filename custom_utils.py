@@ -9,6 +9,10 @@ from sklearn.metrics import r2_score
 from sklearn.metrics import mean_squared_error as mse
 from sklearn.metrics import mean_absolute_error as mae
 import matplotlib.pyplot as plt
+import json
+from IPython.display import Markdown
+from IPython.display import JSON
+
 
 
 def df_spliter_by_data_type(df):
@@ -69,7 +73,7 @@ def data_scaler(x_train, x_test, c_train, c_test, scale_categorical):
         return x_train_scaled_df, x_test_scaled_df
 
 
-def production_data_scaler(x,x_train):
+def production_data_scaler(x, x_train):
     std_scaler = std_scaler_generator(x_train)
     # std_scaler = StandardScaler().fit(x)
     x_scaled_source = std_scaler.transform(x.values)
@@ -103,3 +107,16 @@ def plot_builder(y_pred, y_test):
     ax[2].set_ylabel("residuals")
     ax[2].set_title("Residuals by Predicted")
     ax[2].plot(y_pred, np.zeros(len(y_pred)), linestyle='dashed')
+
+
+def print_pretty_json(obj):
+    output = json.dumps(obj, indent=2)
+    line_list = output.split("\n")
+    for line in line_list:
+        print(line)
+
+
+def print_pretty_json_widget(obj):
+    JSON(obj, expanded=True)
+
+

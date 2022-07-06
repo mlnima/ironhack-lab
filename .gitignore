@@ -1,2 +1,4 @@
 /week5/client/real_estate_price/node_modules
 /env_variables.py
+/.env
+.env
