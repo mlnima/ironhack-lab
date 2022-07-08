@@ -1,0 +1,9 @@
+{
+  'album': {
+    'album_type': 'single',
+    'artists': [
+      {
+        'external_urls': {
+          'spotify': 'https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ'
+        },
+        'href': 'https://api.spotify.com/v1/artists/2LIk90788K0zvyj2...,
